@@ -1,0 +1,10 @@
+itesj
+Software
+developer
+*:x
+":wq"
+cd command
+: x
+:x
+;x
+h
